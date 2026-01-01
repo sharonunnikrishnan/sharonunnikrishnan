@@ -1,11 +1,15 @@
-# Sharon Unnikrishnan - Laravel Developer & Wildlife Photographer
+# Sharon Unnikrishnan - Backend Engineer | Laravel | API & Payment Integrations
 
 ![Portfolio Preview](https://img.shields.io/badge/Portfolio-Live-success)
 ![PHP](https://img.shields.io/badge/PHP-Expert-blue)
 ![Laravel](https://img.shields.io/badge/Laravel-Skilled-red)
 ![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-orange)
 
-A highly motivated and skilled Laravel Developer with over 3 years of experience in building dynamic and scalable web applications. Possesses more than 6 years of PHP development experience with strong expertise in Laravel and CodeIgniter frameworks.
+Backend Engineer with 6+ years of PHP experience and 2+ years of Laravel specialization,
+            building transaction-heavy, API-driven applications in fintech and government domains.
+            Strong expertise in Laravel, REST APIs, payment gateway integrations, KYC workflows,
+            role-based access control, cron jobs, and secure authentication. Experienced in owning
+            backend modules end-to-end, maintaining legacy systems, and resolving production issues.
 
 ## 🚀 Professional Summary
 
