@@ -2,7 +2,7 @@
 ### Backend Engineer | Laravel | API & Payment Integrations
 
 📍 Kannur, Kerala, India | 📞 +91 9747642004 | ✉️ sharonunnikrishnan11@gmail.com  
-🔗 [Portfolio](https://github.com/sharonunnikrishnan) | 💼 [LinkedIn](https://linkedin.com/in/sharon-unnikrishnan)
+🔗 [Portfolio](https://keravibes.com/) | 💼 [LinkedIn](https://linkedin.com/in/sharon-unnikrishnan)
 
 ---
 
